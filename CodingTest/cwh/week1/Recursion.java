@@ -1,4 +1,4 @@
-package week_01;
+package week1;
 
 public class Recursion {
 	static int rslt=0;
